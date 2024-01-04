@@ -1,0 +1,22 @@
+<DOCTYPE html>
+<head>
+</head>
+
+<style>
+h1 {
+font-size: 5rem;
+
+<body>
+
+<center>
+<h1>Bonelab</h1>
+
+<button onclick="window.location.href = 'Trailer.html';">TRAILER</button>
+</center>
+
+<center>
+
+<p1>hei</p1>
+</center>
+
+</body>
